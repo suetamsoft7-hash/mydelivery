@@ -99151,7 +99151,7 @@ d=s.gae6()
 k.gcB().toString
 k=k.gcB().a
 c=r.h(0,"supportPhone")
-return B.aJm(B.b([new B.XT(l,q,p,o,new B.avE(s,r),j.c.a.a,i,b),new B.IF(l,g,s.y,h,new B.avF(s),s.gakd(),i,s.gapi(),f,e,d,b),new B.ZV(b),new B.Il(k.c.a.a,n,f,e,d,b),new B.a0U(J.a1(c==null?"31999999999":c),s.galL(),s.galI(),s.galG(),b)],t.p),m)},
+return B.aJm(B.b([new B.XT(l,q,p,o,new B.avE(s,r),j.c.a.a,i,b),new B.IF(l,g,s.y,h,new B.avF(s),s.gakd(),i,s.gapi(),f,e,d,b),new B.ZV(b),new B.Il(k.c.a.a,n,f,e,d,b),new B.a0U(J.a1(c==null?"31995469485":c),s.galL(),s.galI(),s.galG(),b)],t.p),m)},
 $S:63}
 B.avE.prototype={
 $0(){return this.a.alK(this.b)},
@@ -99534,7 +99534,7 @@ $0(){var s=this.a
 return s.e.$1(s.c)},
 $S:0}
 B.aCK.prototype={
-$0(){return this.a.f.$1("suporte@mydelivery.com")},
+$0(){return this.a.f.$1("suetamsoft7@gmail.com")},
 $S:0}
 B.vz.prototype={
 H(a7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=this,a1=null,a2="customer",a3="saleAmount",a4=a0.d,a5=a4.h(0,"status"),a6=J.a1(a5==null?"pendente":a5).toLowerCase()
